@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "403215412284",
+    "project_id": "kamagi-99e91",
+    "storage_bucket": "kamagi-99e91.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:403215412284:android:8adf8a3b89bfa73a9d6739",
+        "android_client_info": {
+          "package_name": "com.example.nathani_cat03"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDR7DXLquxraNHTSkbixp62-ofr1aU8UsE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
